@@ -1,0 +1,1 @@
+from .simple_classification import SimpleClassificationTask

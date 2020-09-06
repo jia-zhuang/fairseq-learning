@@ -1,0 +1,1 @@
+from .rnn_classifier import FairseqRNNClassifier, pytorch_tutorial_rnn
