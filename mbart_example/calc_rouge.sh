@@ -1,0 +1,1 @@
+rouge -f epoch$1.H.txt epoch$1.T.txt --avg
